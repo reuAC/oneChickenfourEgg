@@ -1,0 +1,4 @@
+name: oneChickenfourEgg
+version: '${project.version}'
+main: org.reuac.onechickenfouregg.OneChickenfourEgg
+api-version: '1.17'
